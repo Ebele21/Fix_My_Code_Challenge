@@ -4,13 +4,13 @@
 #include <stddef.h>
 
 /**
- * struct dlistint_s - This a doubly linked list
- * @n: This is an integer
- * @prev: It points to the prev node
- * @next: It points to the next node
+ * struct dlistint_s - doubly linked list
+ * @n: integer
+ * @prev: points to the prev node
+ * @next: points to the next node
  *
  * Description: doubly linked list node structure
- * for Holberton project
+ * for ALX project
  */
 typedef struct dlistint_s
 {

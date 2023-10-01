@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * main - This check the code for  School students.
+ * main - check the code for ALX students.
  *
  * Return: Always EXIT_SUCCESS.
  */
